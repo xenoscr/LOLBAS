@@ -1,30 +1,18 @@
-## Register-cimprovider.exe
-
-* Functions: Execute
-
-```
-Register-cimprovider -path "C:\folder\evil.dll"   
-```
-
-Acknowledgements:
-* PhilipTsukerman - @PhilipTsukerman
-
-Code sample:
-* 
-
+---
+Name: Register-cimprovider.exe
+Description: Execute
+Author: ''
+Created: '2018-05-25'
+Categories: []
+Commands:
+  - Command: Register-cimprovider -path "C:\folder\evil.dll"
+    Description: ''
+Full Path:
+  - c:\windows\system32\Register-cimprovider.exe
+  - c:\windows\sysWOW64\Register-cimprovider.exe
+Code Sample: []
+Detection: []
 Resources:
-* https://twitter.com/PhilipTsukerman/status/992021361106268161
-
-Full path:
-```
-c:\windows\system32\Register-cimprovider.exe
-c:\windows\sysWOW64\Register-cimprovider.exe
-```
-
-Notes:
-
-
-
-Detection:
-
- 
+  - https://twitter.com/PhilipTsukerman/status/992021361106268161
+Notes: Thanks to PhilipTsukerman - @PhilipTsukerman
+---

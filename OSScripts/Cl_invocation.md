@@ -1,46 +1,19 @@
-## CL_Invocation.ps1
-
-* Functions: Execute
-
-```
-. C:\Windows\diagnostics\system\AERO\CL_Invocation.ps1   
-SyncInvoke <executable> [args]
-```
-```
-. C:\Windows\diagnostics\system\Audio\CL_Invocation.ps1   
-SyncInvoke <executable> [args]
-```
-```
-. C:\Windows\diagnostics\system\WindowsUpdate\CL_Invocation.ps1   
-SyncInvoke <executable> [args]
-```
-
-
-Acknowledgements:
-* Jimmy - @bohops
-* Pierre-Alexandre Braeken @pabraeken (Audio + WindowsUpdate)
-
-Code sample:
-
-
+---
+Name: CL_Invocation.ps1
+Description: Execute
+Author: ''
+Created: '2018-05-25'
+Categories: []
+Commands:
+  - Command: ". C:\\Windows\\diagnostics\\system\\AERO\\CL_Invocation.ps1   \nSyncInvoke\
+      \ <executable> [args]"
+    Description: ''
+Full Path:
+  - C:\Windows\diagnostics\system\AERO\CL_Invocation.ps1
+Code Sample: []
+Detection: []
 Resources:
-* https://twitter.com/bohops/status/948548812561436672
-* https://twitter.com/pabraeken/status/995107879345704961
-
-Full path:
-```
-C:\Windows\diagnostics\system\AERO\CL_Invocation.ps1
-```
-```
-C:\Windows\diagnostics\system\Audio\CL_Invocation.ps1
-```
-```
-C:\Windows\diagnostics\system\WindowsUpdate\CL_Invocation.ps1
-```
-
-Notes:
-
-
-
-
- 
+  - https://twitter.com/bohops/status/948548812561436672
+  - https://twitter.com/pabraeken/status/995107879345704961
+Notes: Thanks to Jimmy - @bohops, Pierre-Alexandre Braeken @pabraeken (Audio + WindowsUpdate)
+---

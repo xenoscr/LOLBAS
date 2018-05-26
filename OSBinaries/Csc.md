@@ -1,31 +1,21 @@
-## Csc.exe
-
-* Functions: Compile
-
-```
-csc -out:My.exe File.cs     
-
-csc -target:library File.cs     
-```
-
-Acknowledgements:
-* ?
-
-Code sample:
-* 
-
+---
+Name: Csc.exe
+Description: Compile
+Author: ''
+Created: '2018-05-25'
+Categories: []
+Commands:
+  - Command: csc -out:My.exe File.cs
+    Description: ''
+  - Command: csc -target:library File.cs
+    Description: ''
+Full Path:
+  - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe
+  - C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Csc.exe
+Code Sample: []
+Detection: []
 Resources:
-* https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/command-line-building-with-csc-exe
-* 
-
-Full path:
-```
-C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe
-C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Csc.exe
-```
-
-Notes:
-
-
-Detection:
-?
+  - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/command-line-building-with-csc-exe
+  - ''
+Notes: Thanks to ?
+---

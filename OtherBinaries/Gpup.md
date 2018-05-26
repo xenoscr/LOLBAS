@@ -1,29 +1,17 @@
-## Gpup.exe
-
-* Functions: Execute
-
-```
-Gpup.exe -w whatever -e c:\Windows\System32\calc.exe
-```
-
-Acknowledgements:
-* Pierre-Alexandre Braeken - @pabraeken   
-
-Code sample:
-*
-
+---
+Name: Gpup.exe
+Description: Execute
+Author: ''
+Created: '2018-05-25'
+Categories: []
+Commands:
+  - Command: Gpup.exe -w whatever -e c:\Windows\System32\calc.exe
+    Description: ''
+Full Path:
+  - 'C:\Program Files (x86)\Notepad++\updater\gpup.exe    '
+Code Sample: []
+Detection: []
 Resources:
-* https://twitter.com/pabraeken/status/997892519827558400
-
-
-Full path:
-```
-C:\Program Files (x86)\Notepad++\updater\gpup.exe    
-```
-
-Notes:
-Used by Notepad++
-
-
-
- 
+  - https://twitter.com/pabraeken/status/997892519827558400
+Notes: 'Thanks to Pierre-Alexandre Braeken - @pabraeken   '
+---

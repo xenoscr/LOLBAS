@@ -1,27 +1,17 @@
-## Bash.exe
-
-* Functions: Execute
-
-```
-bash.exe -c calc.exe
-```
-
-Acknowledgements:
-* ?
-
-Code sample:
-* 
-
+---
+Name: Bash.exe
+Description: Execute
+Author: ''
+Created: '2018-05-25'
+Categories: []
+Commands:
+  - Command: bash.exe -c calc.exe
+    Description: ''
+Full Path:
+  - '?'
+Code Sample: []
+Detection: []
 Resources:
-* 
-
-Full path:
-```
-?
-```
-
-Notes:
-
-
-
- 
+  - ''
+Notes: Thanks to ?
+---

@@ -1,32 +1,18 @@
-## Runonce.exe
-
-* Functions: Execute
-
-```
-Runonce.exe /AlternateShellStartup   
- 
-```
-
-Acknowledgements:
-* Pierre-Alexandre Braeken - @pabraeken
-
-
+---
+Name: Runonce.exe
+Description: Execute
+Author: ''
+Created: '2018-05-25'
+Categories: []
+Commands:
+  - Command: Runonce.exe /AlternateShellStartup
+    Description: ''
+Full Path:
+  - c:\windows\system32\runonce.exe
+  - c:\windows\sysWOW64\runonce.exe
+Code Sample: []
+Detection: []
 Resources:
-* https://twitter.com/pabraeken/status/990717080805789697
-
-Full path:
-```
-c:\windows\system32\runonce.exe
-c:\windows\sysWOW64\runonce.exe
-```
-
-Notes:
-* Prerequisites
-
-1) Create HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components\[YOURKEY]
-2) Create two Strings : 
-a) @ : Hi from Active Setup
-b) StubPath : calc.exe
-
-
- 
+  - https://twitter.com/pabraeken/status/990717080805789697
+Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken
+---

@@ -1,33 +1,20 @@
-## odbcconf.exe
-
-* Functions: Execute
-
-```
-odbcconf -f file.rsp
-```
-
-Acknowledgements:
-* Casey Smith - @subtee
-* Nick Tyrer - @NickTyrer
-
-Code sample:
-*
-
+---
+Name: odbcconf.exe
+Description: Execute
+Author: ''
+Created: '2018-05-25'
+Categories: []
+Commands:
+  - Command: odbcconf -f file.rsp
+    Description: ''
+Full Path:
+  - 'c:\windows\system32\odbcconf.exe    '
+  - c:\windows\sysWOW64\odbcconf.exe
+Code Sample: []
+Detection: []
 Resources:
-* https://gist.github.com/NickTyrer/6ef02ce3fd623483137b45f65017352b    
-* https://github.com/woanware/application-restriction-bypasses    
-* https://twitter.com/subTee/status/789459826367606784    
-
-Full path:
-```
-c:\windows\system32\odbcconf.exe    
-c:\windows\sysWOW64\odbcconf.exe
-```
-
-Notes:
-Text from @subtee tweet:
-```
-Loads Dll from path in my.rsp.
-Hide from command line auditing watching for regsvr32
-```
- 
+  - https://gist.github.com/NickTyrer/6ef02ce3fd623483137b45f65017352b
+  - https://github.com/woanware/application-restriction-bypasses
+  - https://twitter.com/subTee/status/789459826367606784
+Notes: Thanks to Casey Smith - @subtee, Nick Tyrer - @NickTyrer
+---

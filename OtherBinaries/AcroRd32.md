@@ -1,27 +1,18 @@
-## AcroRd32.exe
-
-* Prerequisites
-
-```
-Replace C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe by your binary
-```
-
-* Functions: Execute
-
-```
-Run AcroRd32.exe    
-```
-
-Acknowledgements:
-* Pierre-Alexandre Braeken - @pabraeken
-
-Code sample:
-* 
-
+---
+Name: AcroRd32.exe
+Description: Execute
+Author: ''
+Created: '2018-05-25'
+Categories: []
+Commands:
+  - Command: Replace C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe
+      by your binary
+    Description: ''
+Full Path:
+  - C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\
+Code Sample: []
+Detection: []
 Resources:
-* https://twitter.com/pabraeken/status/997997818362155008
-
-Full path:
-```
-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\
-```
+  - https://twitter.com/pabraeken/status/997997818362155008
+Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken
+---
