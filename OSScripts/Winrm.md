@@ -9,7 +9,7 @@ Commands:
     Description: Hijack the Scripting.Dictionary COM Object to execute remote scriptlet (SCT) code.
   - Command: winrm invoke Create wmicimv2/Win32_Process @{CommandLine="notepad.exe"} -r:http://target:5985
     Description: Lateral movement/Remote Command Execution via WMI Win32_Process class over the WinRM protocol.
-  - Command: "winrm invoke Create wmicimv2/Win32_Service @{Name="Evil";DisplayName="Evil";PathName="cmd.exe /k c:\windows\system32\notepad.exe"} -r:http://acmedc:5985   \nwinrm invoke StartService wmicimv2/Win32_Service?Name=Evil -r:http://acmedc:5985
+  - Command: winrm invoke Create wmicimv2/Win32_Service @{Name="Evil";DisplayName="Evil";PathName="cmd.exe /k c:\windows\system32\notepad.exe"} -r:http://acmedc:5985   \nwinrm invoke StartService wmicimv2/Win32_Service?Name=Evil -r:http://acmedc:5985
     Description: Lateral movement/Remote Command Execution via WMI Win32_Service class over the WinRM protocol.
 Full Path:
   - C:\windows\system32\winrm.vbs
