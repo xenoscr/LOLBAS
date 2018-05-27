@@ -8,7 +8,7 @@ Commands:
   - Command: "bitsadmin /create 1 \nbitsadmin /addfile 1 c:\\windows\\system32\\cmd.exe c:\\data\\playfolder\\cmd.exe \nbitsadmin /SetNotifyCmdLine 1 c:\\data\\playfolder\\1.txt:cmd.exe NULL \nbitsadmin /RESUME 1 \nbitsadmin /complete 1"
     Description: 'Create a bitsadmin job named 1, add cmd.exe to the job, configure the job to run the target command, then resume and complete the job.'
   - Command: "bitsadmin /create 1 \nbitsadmin /addfile 1 https://live.sysinternals.com/autoruns.exe c:\\data\\playfolder\\autoruns.exe \nbitsadmin /RESUME 1 \nbitsadmin /complete 1"
-  Description: 'Create a bitsadmin job named 1, add cmd.exe to the job, configure the job to run the target command, then resume and complete the job.'
+    Description: 'Create a bitsadmin job named 1, add cmd.exe to the job, configure the job to run the target command, then resume and complete the job.'
   - Command: bitsadmin /create 1 & bitsadmin /addfile 1 c:\windows\system32\cmd.exe
       c:\data\playfolder\cmd.exe & bitsadmin /RESUME 1 & bitsadmin /Complete 1 & bitsadmin
       /reset
