@@ -23,6 +23,6 @@ Detection: []
 Resources:
   - https://twitter.com/pabraeken/status/991695411902599168
   - https://bohops.com/2018/03/10/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence-part-2/
-  = https://twitter.com/0rbz_/status/974472392012689408
+  - https://twitter.com/0rbz_/status/974472392012689408
 Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken (RegisterOCX - Cmd), Jimmy - @bohops (LaunchINFSection), fabrizio - @0rbz_ (RegisterOCX - DLL)
 ---
