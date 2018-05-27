@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: rundll32.exe pcwutl.dll,LaunchApplication calc.exe
-    Description: ''
+    Description: Launch executable by calling the LaunchApplication function.
 Full Path:
   - c:\windows\system32\Pcwutl.dll
   - c:\windows\sysWOW64\Pcwutl.dll
