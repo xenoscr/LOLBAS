@@ -24,5 +24,5 @@ Resources:
   - https://github.com/enigma0x3/windows-operating-system-archaeology
   - https://redcanary.com/blog/lateral-movement-winrm-wmi/
   - https://twitter.com/bohops/status/994405551751815170
-Notes: Thanks to Matt Nelson - @enigma0x3 (Hijack), Casey Smith - @subtee (Hijack), Red Canary Company cc: Tony Lambert - @redcanaryco (Win32_Process LM), Jimmy - @bohops (Win32_Service LM)
+Notes: Thanks to Matt Nelson - @enigma0x3 (Hijack), Casey Smith - @subtee (Hijack), Red Canary Company cc Tony Lambert - @redcanaryco (Win32_Process LM), Jimmy - @bohops (Win32_Service LM)
 ---
