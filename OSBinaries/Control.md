@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: control.exe c:\windows\tasks\file.txt:evil.dll
-    Description: ''
+    Description: 'Execute evil.dll which is stored in an Alternate Data Stream (ADS).'
 Full Path:
   - 'C:\Windows\system32\control.exe    '
   - 'C:\Windows\sysWOW64\control.exe     '
