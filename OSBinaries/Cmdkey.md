@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: cmdkey /list
-    Description: ''
+    Description: 'List cached credentials.'
 Full Path:
   - c:\windows\system32\cmdkey.exe
   - c:\windows\sysWOW64\cmdkey.exe
