@@ -5,11 +5,12 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: ". C:\\Windows\\diagnostics\\system\\AERO\\CL_Mutexverifiers.ps1   \n\
-      runAfterCancelProcess calc.ps1"
+  - Command: |
+          . C:\Windows\diagnostics\system\AERO\CL_Mutexverifiers.ps1
+          runAfterCancelProcess calc.ps1
     Description: ''
 Full Path:
-  - 'C:\Windows\diagnostics\system\WindowsUpdate\CL_Mutexverifiers.ps1 '
+  - C:\Windows\diagnostics\system\WindowsUpdate\CL_Mutexverifiers.ps1
 Code Sample: []
 Detection: []
 Resources:

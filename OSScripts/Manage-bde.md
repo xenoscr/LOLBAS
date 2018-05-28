@@ -5,11 +5,12 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "set comspec=C:\\windows\\system32\\calc.exe   \ncscript C:\\windows\\\
-      system32\\manage-bde.wsf"
+  - Command: |
+          set comspec=C:\Windows\System32\calc.exe
+          cscript C:\Windows\System32\manage-bde.wsf
     Description: ''
 Full Path:
-  - c:\windows\system32\manage-bde.wsf
+  - C:\Windows\System32\manage-bde.wsf
 Code Sample: []
 Detection: []
 Resources:

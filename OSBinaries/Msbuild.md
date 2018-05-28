@@ -5,7 +5,9 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "msbuild.exe pshell.xml   \n    \nmsbuild.exe Msbuild.csproj"
+  - Command: |
+          msbuild.exe pshell.xml
+          msbuild.exe Msbuild.csproj
     Description: ''
 Full Path:
   - C:\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe

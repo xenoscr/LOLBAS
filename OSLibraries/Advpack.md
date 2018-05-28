@@ -5,12 +5,13 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "rundll32.exe advpack.dll,LaunchINFSection c:\\test.inf,DefaultInstall_SingleUser,1,\
-      \     \nrundll32.exe advpack.dll,RegisterOCX calc.exe"
+  - Command: |
+          rundll32.exe advpack.dll,LaunchINFSection c:\test.inf,DefaultInstall_SingleUser,1,
+          rundll32.exe advpack.dll,RegisterOCX calc.exe
     Description: ''
 Full Path:
-  - c:\windows\system32\advpack.dll
-  - c:\windows\sysWOW64\advpack.dll
+  - C:\Windows\System32\advpack.dll
+  - C:\Windows\SysWOW64\advpack.dll
 Code Sample: []
 Detection: []
 Resources:

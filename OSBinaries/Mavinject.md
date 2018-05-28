@@ -5,9 +5,7 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "MavInject.exe <PID> /INJECTRUNNING <PATH DLL>\n\nMavInject.exe 3110\
-      \ /INJECTRUNNING c:\\folder\\evil.dll     \n   \nmavinject.exe 4172 /INJECTRUNNING\
-      \ \"c:\\ads\\file.txt:file.dll\""
+  - Command: MavInject.exe <PID> /INJECTRUNNING <PATH DLL>
     Description: ''
 Full Path:
   - C:\Windows\System32\mavinject.exe
