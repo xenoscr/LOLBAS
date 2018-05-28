@@ -6,11 +6,11 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: cscript testxlst.js C:\test\test.xml c:\test\test.xls c:\test\test.out
-    Description: ''
+    Description: Test Jscript included in Python tool to perform XSL transform (for payload execution).
   - Command: wscript testxlst.js C:\test\test.xml c:\test\test.xls c:\test\test.out
-    Description: ''
+    Description: Test Jscript included in Python tool to perform XSL transform (for payload execution).
 Full Path:
-  - 'c:\python27amd64\Lib\site-packages\win32com\test   '
+  - c:\python27amd64\Lib\site-packages\win32com\test\testxslt.js (Visual Studio Installation)
 Code Sample: []
 Detection: []
 Resources:

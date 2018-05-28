@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: Vsjitdebugger.exe calc.exe
-    Description: ''
+    Description: Executes calc.exe as a subprocess of Vsjitdebugger.exe.
 Full Path:
   - c:\windows\system32\vsjitdebugger.exe
 Code Sample: []

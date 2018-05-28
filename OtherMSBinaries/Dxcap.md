@@ -6,9 +6,10 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: Dxcap.exe -c C:\Windows\System32\notepad.exe
-    Description: ''
+    Description: Launch notepad as a subprocess of Dxcap.exe
 Full Path:
-  - '?'
+  - c:\Windows\System32\dxcap.exe
+  - c:\Windows\SysWOW64\dxcap.exe
 Code Sample: []
 Detection: []
 Resources:

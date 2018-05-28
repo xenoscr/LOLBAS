@@ -5,8 +5,8 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: SQLToolsPS.exe -noprofile
-    Description: ''
+  - Command: SQLToolsPS.exe -noprofile -command Start-Process calc.exe
+    Description: Run PowerShell scripts and commands.
 Full Path:
   - C:\Program files (x86)\Microsoft SQL Server\130\Tools\Binn\sqlps.exe
 Code Sample: []

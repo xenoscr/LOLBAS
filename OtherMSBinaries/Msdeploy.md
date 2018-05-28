@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: msdeploy.exe -verb:sync -source:RunCommand -dest:runCommand="c:\temp\calc.bat"
-    Description: ''
+    Description: Launch calc.bat via msdeploy.exe.
 Full Path:
   - C:\Program Files (x86)\IIS\Microsoft Web Deploy V3\msdeploy.exe
 Code Sample: []
