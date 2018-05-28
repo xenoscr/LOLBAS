@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: Extexport.exe c:\test foo bar
-    Description: ''
+    Description: 'Load a DLL located in the c:\\test folder with one of the following names: mozcrt19.dll, mozsqlite3.dll, or sqlite.dll'
 Full Path:
   - 'C:\Program Files\Internet Explorer\Extexport.exe    '
   - C:\Program Files\Internet Explorer(x86)\Extexport.exe

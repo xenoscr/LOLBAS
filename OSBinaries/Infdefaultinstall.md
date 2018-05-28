@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: InfDefaultInstall.exe Infdefaultinstall.inf
-    Description: ''
+    Description: 'Executes SCT script using scrobj.dll from a command in entered into a specially prepared INF file.'
 Full Path:
   - c:\windows\system32\Infdefaultinstall.exe
   - c:\windows\sysWOW64\Infdefaultinstall.exe

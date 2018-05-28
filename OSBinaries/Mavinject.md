@@ -5,8 +5,10 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: MavInject.exe <PID> /INJECTRUNNING <PATH DLL>
-    Description: ''
+  - Command: MavInject.exe 3110 /INJECTRUNNING c:\folder\evil.dll
+    Description: Inject evil.dll into a process with PID 3110.
+  - Command: Mavinject.exe 4172 /INJECTRUNNING "c:\ads\file.txt:file.dll"
+    Description: Inject file.dll stored as an Alternate Data Stream (ADS) into a process with PID 4172.
 Full Path:
   - C:\Windows\System32\mavinject.exe
   - C:\Windows\SysWOW64\mavinject.exe

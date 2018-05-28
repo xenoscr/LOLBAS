@@ -5,10 +5,10 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: |
-          msbuild.exe pshell.xml
-          msbuild.exe Msbuild.csproj
-    Description: ''
+  - Command: msbuild.exe pshell.xml
+    Description: Build and execute a C# project stored in the target XML file.
+  - Command: msbuild.exe Msbuild.csproj
+    Description: Build and execute a C# project stored in the target CSPROJ file.
 Full Path:
   - C:\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
   - C:\Windows\Microsoft.NET\Framework64\v2.0.50727\Msbuild.exe
