@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: cdb.exe -cf x64_calc.wds -o notepad.exe
-    Description: ''
+    Description: Launch 64-bit shellcode from the x64_calc.wds file using cdb.exe.
 Full Path:
   - C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\cdb.exe
   - C:\Program Files (x86)\Windows Kits\10\Debuggers\x86\cdb.exe

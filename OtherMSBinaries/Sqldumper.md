@@ -5,15 +5,13 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: sqldumper.exe 464 0 0x0110:40
-    Description: ''
-  - Command: sqldumper.exe 540 0 0x01100
-    Description: ''
+  - Command: sqldumper.exe 464 0 0x0110
+    Description: Dump process by PID and create a dump file (Appears to create a dump file called SQLDmprXXXX.mdmp).
+  - Command: sqldumper.exe 540 0 0x01100:40
+    Description: 0x01100:40 flag will create a Mimikatz compatibile dump file.
 Full Path:
-  - 'C:\Program Files\Microsoft SQL Server\90\Shared\SQLDumper.exe   '
-  - ''
-  - 'C:\Program Files (x86)\Microsoft Office\root\vfs\ProgramFilesX86\Microsoft Analysis
-    Services\AS OLEDB\140\SQLDumper.exe   '
+  - C:\Program Files\Microsoft SQL Server\90\Shared\SQLDumper.exe
+  - C:\Program Files (x86)\Microsoft Office\root\vfs\ProgramFilesX86\Microsoft Analysis\AS OLEDB\140\SQLDumper.exe
 Code Sample: []
 Detection: []
 Resources:

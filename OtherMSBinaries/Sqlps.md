@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: Sqlps.exe -noprofile
-    Description: ''
+    Description: Drop into a SQL Server PowerShell console without Module and ScriptBlock Logging.
 Full Path:
   - C:\Program files (x86\Microsoft SQL Server\100\Tools\Binn\sqlps.exe
 Code Sample: []
