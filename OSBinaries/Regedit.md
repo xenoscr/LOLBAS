@@ -5,12 +5,13 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "regedit /E c:\\ads\\file.txt:regfile.reg HKEY_CURRENT_USER\\MyCustomRegKey\n\
-      \    \nregedit c:\\ads\\file.txt:regfile.reg"
+  - Command: regedit /E c:\ads\file.txt:regfile.reg HKEY_CURRENT_USER\MyCustomRegKey
+    Description: ''
+  - Command: regedit C:\ads\file.txt:regfile.reg"
     Description: ''
 Full Path:
-  - c:\windows\system32\regedit.exe
-  - c:\windows\sysWOW64\regedit.exe
+  - C:\Windows\System32\regedit.exe
+  - C:\Windows\SysWOW64\regedit.exe
 Code Sample: []
 Detection: []
 Resources:

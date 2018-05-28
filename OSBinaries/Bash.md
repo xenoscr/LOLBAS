@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: bash.exe -c calc.exe
-    Description: 'Execute calc.exe.'
+    Description: Execute calc.exe.
 Full Path:
   - '?'
 Code Sample: []

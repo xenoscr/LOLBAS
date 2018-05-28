@@ -6,7 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: rundll32.exe zipfldr.dll,RouteTheCall calc.exe
-    Description: ''
+    Description: Launch an executable payload by calling RouteTheCall.
+  - Command: rundll32.exe zipfldr.dll,RouteTheCall file://^C^:^/^W^i^n^d^o^w^s^/^s^y^s^t^e^m^3^2^/^c^a^l^c^.^e^x^e
+    Description: Launch an executable payload by calling RouteTheCall.
 Full Path:
   - c:\windows\system32\zipfldr.dll
   - c:\windows\sysWOW64\zipfldr.dll
@@ -14,5 +16,6 @@ Code Sample: []
 Detection: []
 Resources:
   - https://twitter.com/moriarty_meng/status/977848311603380224
-Notes: Thanks to Moriarty - @moriarty_meng
+  - https://twitter.com/bohops/status/997896811904929792
+Notes: Thanks to Moriarty - @moriarty_meng (Execute), r0lan - @yeyint_mth (Obfuscation)
 ---

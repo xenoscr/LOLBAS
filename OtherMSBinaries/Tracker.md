@@ -11,5 +11,5 @@ Full Path: ''
 Code Sample: []
 Detection: []
 Resources: []
-Notes: 'Thanks to * Giuseppe N3mes1s - @gN3mes1s   '
+Notes: Thanks to Giuseppe N3mes1s - @gN3mes1s
 ---

