@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: diskshadow.exe /s c:\test\diskshadow.txt
-    Description: 'Execute commands using diskshadow.exe from a prepared diskshadow script.'
+    Description: Execute commands using diskshadow.exe from a prepared diskshadow script.
   - Command: diskshadow> exec calc.exe
-    Description: 'Execute a calc.exe using diskshadow.exe.'
+    Description: Execute a calc.exe using diskshadow.exe.
 Full Path:
   - c:\windows\system32\diskshadow.exe
   - c:\windows\sysWOW64\diskshadow.exe

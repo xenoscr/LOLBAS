@@ -15,5 +15,5 @@ Detection: []
 Resources:
   - https://twitter.com/pabraeken/status/994392481927258113
   - https://twitter.com/harr0ey/status/975350238184697857
-Notes: 'Thanks to Pierre-Alexandre Braeken - @pabraeken, Matt harr0ey - @harr0ey  '
+Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken, Matt harr0ey - @harr0ey
 ---

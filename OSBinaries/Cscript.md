@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: cscript c:\ads\file.txt:script.vbs
-    Description: 'Use cscript.exe to exectute a Visual Basic script stored in an Alternate Data Stream (ADS).'
+    Description: Use cscript.exe to exectute a Visual Basic script stored in an Alternate Data Stream (ADS).
 Full Path:
   - c:\windows\system32\cscript.exe
   - c:\windows\sysWOW64\cscript.exe

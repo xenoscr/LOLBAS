@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: ATBroker.exe /start malware
-    Description: 'Start a registered Assistive Technology (AT).'
+    Description: Start a registered Assistive Technology (AT).
 Full Path:
   - C:\Windows\System32\Atbroker.exe
   - C:\Windows\SysWOW64\Atbroker.exe
