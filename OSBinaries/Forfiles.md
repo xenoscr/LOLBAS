@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: forfiles /p c:\windows\system32 /m notepad.exe /c calc.exe
-    Description: ''
+    Description: 'Executes calc.exe since there is a match for notepad.exe in the c:\\windows\\System32 folder.'
   - Command: forfiles /p c:\windows\system32 /m notepad.exe /c "c:\folder\normal.dll:evil.exe"
-    Description: ''
+    Description: 'Executes the evil.exe Alternate Data Stream (AD) since there is a match for notepad.exe in the c:\\windows\\system32 folder.'
 Full Path:
   - C:\Windows\system32\forfiles.exe
   - C:\Windows\sysWOW64\forfiles.exe

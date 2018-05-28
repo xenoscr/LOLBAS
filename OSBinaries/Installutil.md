@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: InstallUtil.exe /logfile= /LogToConsole=false /U AllTheThings.dll
-    Description: ''
+    Description: 'Execute the target .NET DLL or EXE.'
 Full Path:
   - C:\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe
   - C:\Windows\Microsoft.NET\Framework64\v2.0.50727\InstallUtil.exe

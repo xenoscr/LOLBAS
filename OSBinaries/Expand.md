@@ -6,11 +6,11 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: expand \\webdav\folder\file.bat c:\ADS\file.bat
-    Description: ''
+    Description: 'Copies source file to destination.'
   - Command: expand c:\ADS\file1.bat c:\ADS\file2.bat
-    Description: ''
+    Description: 'Copies source file to destination.'
   - Command: expand \\webdav\folder\file.bat c:\ADS\file.txt:file.bat
-    Description: ''
+    Description: 'Copies source file to destination Alternate Data Stream (ADS).'
 Full Path:
   - c:\windows\system32\Expand.exe
   - c:\windows\sysWOW64\Expand.exe

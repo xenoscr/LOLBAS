@@ -10,7 +10,7 @@ Commands:
   - Command: copy c:\users\person\evil.exe c:\users\public\manage-bde.exe & cd c:\users\public\ & cscript.exe c:\windows\system32\manage-bde.wsf
     Description: Run the manage-bde.wsf script with a payload named manage-bde.exe in the same directory to run the payload file.
 Full Path:
-  - c:\windows\system32\manage-bde.wsf
+  - C:\Windows\System32\manage-bde.wsf
 Code Sample: []
 Detection: []
 Resources:

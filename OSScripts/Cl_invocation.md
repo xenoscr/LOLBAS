@@ -5,7 +5,7 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: ". C:\\Windows\\diagnostics\\system\\AERO\\CL_Invocation.ps1   \nSyncInvoke <executable> [args]"
+  - Command: . C:\\Windows\\diagnostics\\system\\AERO\\CL_Invocation.ps1   \nSyncInvoke <executable> [args]
     Description: Import the PowerShell Diagnostic CL_Invocation script and call SyncInvoke to launch an executable.
 Full Path:
   - C:\Windows\diagnostics\system\AERO\CL_Invocation.ps1

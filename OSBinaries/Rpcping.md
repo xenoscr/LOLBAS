@@ -5,14 +5,15 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: "rpcping -s 127.0.0.1 -t ncacn_np\n     \nrpcping -s 192.168.1.10 -t\
-      \ ncacn_np"
+  - Command: rpcping -s 127.0.0.1 -t ncacn_np
     Description: ''
-  - Command: rpcping  -s 127.0.0.1 -e 1234 -a privacy -u NTLM
+  - Command: rpcping -s 192.168.1.10 -ncacn_np
+    Description: ''
+  - Command: rpcping -s 127.0.0.1 -e 1234 -a privacy -u NTLM
     Description: ''
 Full Path:
-  - c:\windows\system32\rpcping.exe
-  - c:\windows\sysWOW64\rpcping.exe
+  - C:\Windows\System32\rpcping.exe
+  - C:\Windows\SysWOW64\rpcping.exe
 Code Sample: []
 Detection: []
 Resources:

@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: csc -out:My.exe File.cs
-    Description: ''
+    Description: Use CSC.EXE to compile C# code stored in File.cs and output the compiled version to My.exe.
   - Command: csc -target:library File.cs
     Description: ''
 Full Path:

