@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: dnx.exe consoleapp
-    Description: Execute C# code located in the consoleapp folder via Program.cs and Project.json (Note: Requires dependencies)
+    Description: Execute C# code located in the consoleapp folder via 'Program.cs' and 'Project.json' (Note - Requires dependencies)
 Full Path:
-  - NA
+  - N/A
 Code Sample: []
 Detection: []
 Resources:
