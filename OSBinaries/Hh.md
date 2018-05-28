@@ -6,13 +6,13 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: HH.exe http://www.google.com
-    Description: ''
+    Description: 'Opens google's web page with HTML Help.'
   - Command: HH.exe C:\
-    Description: ''
+    Description: 'Opens c:\\ with HTML Help.'
   - Command: HH.exe c:\windows\system32\calc.exe
-    Description: ''
+    Description: 'Opens calc.exe with HTML Help.'
   - Command: HH.exe http://some.url/script.ps1
-    Description: ''
+    Description: 'Open the target PowerShell script with HTML Help.'
 Full Path:
   - c:\windows\system32\hh.exe
   - c:\windows\sysWOW64\hh.exe

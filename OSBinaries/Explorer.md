@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: explorer.exe calc.exe
-    Description: ''
+    Description: 'Executes calc.exe as a subprocess of explorer.exe.'
 Full Path:
   - c:\windows\explorer.exe
   - c:\windows\sysWOW64\explorer.exe

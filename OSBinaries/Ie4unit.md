@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: ie4unit.exe -BaseSettings
-    Description: ''
+    Description: 'Executes commands from a specially prepared ie4uinit.inf file.'
 Full Path:
   - 'c:\windows\system32\ie4unit.exe    '
   - 'c:\windows\sysWOW64\ie4unit.exe    '
