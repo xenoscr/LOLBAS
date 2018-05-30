@@ -6,11 +6,13 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: |
-          netsh.exe trace start capture=yes filemode=append persistent=yes tracefile=\\server\share\file.etl
+          netsh.exe trace start capture=yes filemode=append persistent=yes tracefile=\\server\share\file.etl IPv4.Address=!(<IPofRemoteFileShare>)
           netsh.exe trace show status
-          netsh.exe add helper C:\Path\file.dll
-          netsh interface portproxy add v4tov4 listenport=8080 listenaddress=0.0.0.0 connectport=8000 connectaddress=192.168.1.1
-    Description: ''
+    Description: Capture network traffic on remote file share.
+  - Command: netsh.exe add helper C:\Path\file.dll
+    Description: Load (execute) NetSh.exe helper DLL file.
+  - Command: netsh interface portproxy add v4tov4 listenport=8080 listenaddress=0.0.0.0 connectport=8000 connectaddress=192.168.1.1
+    Description: Forward traffic from the listening address and proxy to a remote system.
 Full Path:
   - C:\Windows\System32
 etsh.exe

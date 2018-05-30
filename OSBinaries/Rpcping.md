@@ -6,11 +6,11 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: rpcping -s 127.0.0.1 -t ncacn_np
-    Description: ''
+    Description: Send a RPC test connection to the target server (-s) sending the password hash in the process.
   - Command: rpcping -s 192.168.1.10 -ncacn_np
-    Description: ''
+    Description: Send a RPC test connection to the target server (-s) sending the password hash in the process.
   - Command: rpcping -s 127.0.0.1 -e 1234 -a privacy -u NTLM
-    Description: ''
+    Description: Send a RPC test connection to the target server (-s) and force the NTLM hash to be sent in the process.
 Full Path:
   - C:\Windows\System32\rpcping.exe
   - C:\Windows\SysWOW64\rpcping.exe

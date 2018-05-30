@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: reg export HKLM\SOFTWARE\Microsoft\Evilreg c:\ads\file.txt:evilreg.reg
-    Description: ''
+    Description: Export the target Registry key and save it to the specified .REG file.
 Full Path:
   - c:\windows\system32\reg.exe
   - c:\windows\sysWOW64\reg.exe

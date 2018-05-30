@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: Register-cimprovider -path "C:\folder\evil.dll"
-    Description: ''
+    Description: Load the target .DLL.
 Full Path:
   - c:\windows\system32\Register-cimprovider.exe
   - c:\windows\sysWOW64\Register-cimprovider.exe

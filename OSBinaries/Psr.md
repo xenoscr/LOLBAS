@@ -6,11 +6,11 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: psr.exe /start /gui 0 /output c:\users\user\out.zip
-    Description: ''
+    Description: Capture screenshots of the desktop and save them in the target .ZIP file.
   - Command: psr.exe /start /maxsc 100 /gui 0 /output c:\users\user\out.zip
-    Description: ''
+    Description: Capture a maximum of 100 screenshots of the desktop and save them in the target .ZIP file.
   - Command: psr.exe /stop
-    Description: ''
+    Description: Stop the Problem Step Recorder.
 Full Path:
   - C:\Windows\System32\Psr.exe
   - C:\Windows\SysWOW64\Psr.exe

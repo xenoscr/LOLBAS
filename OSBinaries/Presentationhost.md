@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: Presentationhost.exe C:\temp\Evil.xbap
-    Description: ''
+    Description: Executes the target XAML Browser Application (XBAP) file.
 Full Path:
   - 'c:\windows\system32\PresentationHost.exe     '
   - 'c:\windows\sysWOW64\PresentationHost.exe    '
