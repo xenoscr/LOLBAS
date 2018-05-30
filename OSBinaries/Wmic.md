@@ -44,4 +44,3 @@ Resources:
   - https://subt0x11.blogspot.no/2018/04/wmicexe-whitelisting-bypass-hacking.html
   - https://twitter.com/subTee/status/986234811944648707
 Notes: Thanks to Casey Smith - @subtee
----

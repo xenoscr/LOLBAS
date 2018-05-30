@@ -15,4 +15,4 @@ Detection: []
 Resources:
   - https://twitter.com/PhilipTsukerman/status/992021361106268161
 Notes: Thanks to PhilipTsukerman - @PhilipTsukerman
----
+

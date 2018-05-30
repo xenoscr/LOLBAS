@@ -17,4 +17,3 @@ Resources:
   - https://twitter.com/subTee/status/877616321747271680
   - https://github.com/3gstudent/Use-msxsl-to-bypass-AppLocker
 Notes: Thanks to Casey Smith - @subTee (Finding), 3gstudent - @3gstudent (Remote)
----

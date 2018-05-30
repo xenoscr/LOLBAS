@@ -20,8 +20,8 @@ Resources:
   - http://www.labofapenetrationtester.com/2017/05/abusing-dnsadmins-privilege-for-escalation-in-active-directory.html
 Notes: |
     This command must be run on a DC by a user that is at least a member of the DnsAdmins group. See the refference links for DLL details.
-    Thanks to Shay Ber - ?, 
-    Dimitrios Slamaris - @dim0x69, 
-    Nikhil SamratAshok, 
+    Thanks to Shay Ber - ?,
+    Dimitrios Slamaris - @dim0x69,
+    Nikhil SamratAshok,
     Mittal - @nikhil_mitt
----
+

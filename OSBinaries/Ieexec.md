@@ -15,4 +15,4 @@ Detection: []
 Resources:
   - https://room362.com/post/2014/2014-01-16-application-whitelist-bypass-using-ieexec-dot-exe/
 Notes: Thanks to Casey Smith - @subtee
----
+

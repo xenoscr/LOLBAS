@@ -13,4 +13,3 @@ Detection: []
 Resources:
   - https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
 Notes: Thanks to Matt Nelson - @enigma0x3
----

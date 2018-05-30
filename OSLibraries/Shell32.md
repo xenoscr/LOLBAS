@@ -22,4 +22,3 @@ Resources:
   - https://twitter.com/mattifestation/status/776574940128485376
   - https://twitter.com/KyleHanslovan/status/905189665120149506
 Notes: Thanks to Adam - @hexacorn (Control_RunDLL), Pierre-Alexandre Braeken - @pabraeken (ShellExec_RunDLL), Matt Graeber - @mattifestation (ShellExec_RunDLL), Kyle Hanslovan - @KyleHanslovan (ShellExec_RunDLL)
----

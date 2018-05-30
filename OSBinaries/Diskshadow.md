@@ -17,4 +17,4 @@ Detection: []
 Resources:
   - https://bohops.com/2018/03/26/diskshadow-the-return-of-vss-evasion-persistence-and-active-directory-database-extraction/
 Notes: Thanks to Jimmy - @bohops
----
+

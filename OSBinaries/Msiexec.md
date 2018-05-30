@@ -22,4 +22,4 @@ Resources:
   - https://pentestlab.blog/2017/06/16/applocker-bypass-msiexec/
   - https://twitter.com/PhilipTsukerman/status/992021361106268161
 Notes: Thanks to ? - @netbiosX, PhilipTsukerman - @PhilipTsukerman
----
+

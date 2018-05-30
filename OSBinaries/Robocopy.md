@@ -17,4 +17,4 @@ Detection: []
 Resources:
   - https://social.technet.microsoft.com/wiki/contents/articles/1073.robocopy-and-a-few-examples.aspx
 Notes: Thanks to Name of guy - @twitterhandle
----
+

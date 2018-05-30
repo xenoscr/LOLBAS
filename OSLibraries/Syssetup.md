@@ -22,4 +22,3 @@ Resources:
   - https://twitter.com/harr0ey/status/975350238184697857
   - https://twitter.com/bohops/status/975549525938135040
 Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken (Execute), Matt harr0ey - @harr0ey (Execute), Jimmy - @bohops (COM Scriptlet)
----

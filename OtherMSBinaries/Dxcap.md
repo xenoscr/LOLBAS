@@ -15,4 +15,3 @@ Detection: []
 Resources:
   - https://twitter.com/harr0ey/status/992008180904419328
 Notes: Thanks to Matt harr0ey - @harr0ey
----

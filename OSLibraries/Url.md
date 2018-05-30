@@ -31,4 +31,3 @@ Resources:
   - https://twitter.com/yeyint_mth/status/997355558070927360
   - https://twitter.com/Hexacorn/status/974063407321223168
 Notes: Thanks to Jimmy - @bohops (OpenURL), Adam - @hexacorn (OpenURL), Malwrologist - @DissectMalware (FileProtocolHandler - HTA), r0lan - @yeyint_mth (Obfuscation)
----

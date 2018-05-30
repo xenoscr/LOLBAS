@@ -25,4 +25,4 @@ Detection: []
 Resources:
   - https://twitter.com/egre55/status/985994639202283520
 Notes: Thanks to egre55 - @egre55
----
+

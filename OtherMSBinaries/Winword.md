@@ -15,4 +15,3 @@ Resources:
   - https://twitter.com/vysecurity/status/884755482707210241
   - https://twitter.com/Hexacorn/status/885258886428725250
 Notes: Thanks to Vincent Yiu - @@vysecurity (Cmd), Adam - @Hexacorn (Internals)
----

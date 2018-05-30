@@ -16,4 +16,3 @@ Detection: []
 Resources:
   - https://posts.specterops.io/bypassing-application-whitelisting-with-runscripthelper-exe-1906923658fc
 Notes: Thanks to Matt Graeber - @mattifestation
----

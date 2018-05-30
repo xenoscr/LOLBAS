@@ -16,4 +16,3 @@ Resources:
   - http://www.hexacorn.com/blog/2018/05/01/wab-exe-as-a-lolbin/
   - https://twitter.com/Hexacorn/status/991447379864932352
 Notes: Thanks to Adam - @Hexacorn
----

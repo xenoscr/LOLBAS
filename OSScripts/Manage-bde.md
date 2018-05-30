@@ -17,4 +17,3 @@ Resources:
   - https://gist.github.com/bohops/735edb7494fe1bd1010d67823842b712
   - https://twitter.com/bohops/status/980659399495741441
 Notes: Thanks to Jimmy - @bophops (Comspec), Daniel Bohannon - @danielhbohannon (Path Hijack)
----

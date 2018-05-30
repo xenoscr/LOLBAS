@@ -15,4 +15,4 @@ Detection: []
 Resources:
   - https://www.peew.pw/blog/2017/11/26/exploring-cmdkey-an-edge-case-for-privilege-escalation
 Notes: ''
----
+

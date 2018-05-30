@@ -16,4 +16,3 @@ Detection: []
 Resources:
   - https://twitter.com/pabraeken/status/995111125447577600
 Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken (Audio + WindowsUpdate)
----

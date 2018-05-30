@@ -18,4 +18,3 @@ Resources:
   - https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology
   - https://github.com/enigma0x3/windows-operating-system-archaeology
 Notes: Thanks to Matt Nelson - @enigma0x3
----

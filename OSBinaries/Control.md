@@ -18,4 +18,4 @@ Resources:
   - https://bohops.com/2018/01/23/loading-alternate-data-stream-ads-dll-cpl-binaries-to-bypass-applocker/
   - https://twitter.com/bohops/status/955659561008017409
 Notes: Thanks to Jimmy - @bohops
----
+

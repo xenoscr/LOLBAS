@@ -24,4 +24,3 @@ Detection: []
 Resources:
   - http://sysadminconcombre.blogspot.ca/2018/04/run-system-commands-through-nvidia.html
 Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken
----

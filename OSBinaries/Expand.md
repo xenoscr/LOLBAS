@@ -20,4 +20,4 @@ Resources:
   - https://twitter.com/infosecn1nja/status/986628482858807297
   - https://twitter.com/Oddvarmoe/status/986709068759949319
 Notes: Thanks to Rahmat Nurfauzi - @infosecn1nja, Oddvar Moe - @oddvarmoe
----
+

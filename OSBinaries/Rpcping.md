@@ -22,4 +22,4 @@ Resources:
   - https://twitter.com/vysecurity/status/974806438316072960
   - https://twitter.com/vysecurity/status/873181705024266241
 Notes: Thanks to Casey Smith - @subtee, Vincent Yiu - @vysecurity
----
+

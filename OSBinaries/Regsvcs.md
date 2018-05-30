@@ -20,4 +20,4 @@ Resources:
   - https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Execution/RegsvcsRegasm.md
   - https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/
 Notes: Thanks to Casey Smith - @subtee
----
+

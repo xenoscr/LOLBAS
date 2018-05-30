@@ -14,4 +14,3 @@ Detection: []
 Resources:
   - https://twitter.com/bryon_/status/975835709587075072
 Notes: Thanks to Bryon - @bryon_
----

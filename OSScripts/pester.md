@@ -16,4 +16,3 @@ Resources:
   - https://twitter.com/Oddvarmoe/status/993383596244258816
   - https://github.com/api0cradle/LOLBAS/blob/master/OSScripts/pester.md
 Notes: Thanks to Emin Atac - @p0w3rsh3ll
----

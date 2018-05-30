@@ -17,4 +17,4 @@ Detection: []
 Resources:
   - https://bohops.com/2018/03/10/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence-part-2/
 Notes: Thanks to Jimmy - @bohops
----
+

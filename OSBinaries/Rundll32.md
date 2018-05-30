@@ -29,4 +29,4 @@ Resources:
   - https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/
   - https://oddvar.moe/2018/01/14/putting-data-in-alternate-data-streams-and-how-to-execute-it/
 Notes: Thanks to Casey Smith - @subtee
----
+

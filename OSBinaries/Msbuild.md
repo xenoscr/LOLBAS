@@ -24,4 +24,4 @@ Resources:
   - https://pentestlab.blog/2017/05/29/applocker-bypass-msbuild/
   - https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/
 Notes: Thanks to Casey Smith - @subtee, Cn33liz - @Cneelis
----
+

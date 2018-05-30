@@ -22,4 +22,4 @@ Resources:
   - https://www.blackhillsinfosec.com/powershell-without-powershell-how-to-bypass-application-whitelisting-environment-restrictions-av/
   - https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/
 Notes: Thanks to Casey Smith - @subtee
----
+

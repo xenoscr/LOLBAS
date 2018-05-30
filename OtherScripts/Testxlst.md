@@ -16,4 +16,3 @@ Detection: []
 Resources:
   - https://twitter.com/bohops/status/993314069116485632
 Notes: Thanks to Jimmy - @bohops
----

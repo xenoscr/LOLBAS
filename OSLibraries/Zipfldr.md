@@ -18,4 +18,3 @@ Resources:
   - https://twitter.com/moriarty_meng/status/977848311603380224
   - https://twitter.com/bohops/status/997896811904929792
 Notes: Thanks to Moriarty - @moriarty_meng (Execute), r0lan - @yeyint_mth (Obfuscation)
----

@@ -19,4 +19,3 @@ Detection: []
 Resources:
   - https://twitter.com/0rbz_/status/988911181422186496 (Currently not accessible)
 Notes: Thanks to fabrizio - @0rbz_
----

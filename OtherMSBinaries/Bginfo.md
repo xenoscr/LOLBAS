@@ -18,4 +18,3 @@ Detection: []
 Resources:
   - https://oddvar.moe/2017/05/18/bypassing-application-whitelisting-with-bginfo/
 Notes: Thanks to Oddvar Moe - @oddvarmoe
----

@@ -19,4 +19,3 @@ Resources:
   - https://twitter.com/countuponsec/status/910977826853068800
   - https://support.microsoft.com/en-us/help/917825/how-to-use-the-sqldumper-exe-utility-to-generate-a-dump-file-in-sql-se
 Notes: Thanks to Luis Rocha - @countuponsec
----

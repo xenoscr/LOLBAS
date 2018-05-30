@@ -23,4 +23,3 @@ Resources:
   - https://twitter.com/KyleHanslovan/status/911997635455852544
   - https://github.com/huntresslabs/evading-autoruns
 Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken (Executable), Kyle Hanslovan - @KyleHanslovan (COM Scriptlet), Huntress Labs - @HuntressLabs (COM Scriptlet), Casey Smith - @subTee (COM Scriptlet)
----

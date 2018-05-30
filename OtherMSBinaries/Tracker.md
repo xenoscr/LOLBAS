@@ -13,6 +13,5 @@ Detection: []
 Resources:
   - https://twitter.com/subTee/status/793151392185589760
   - https://attack.mitre.org/wiki/Execution
-  
+
 Notes: Thanks to Casey Smith - @subTee
----

@@ -25,4 +25,4 @@ Resources:
   - https://attack.mitre.org/wiki/Technique/T1128
   - https://twitter.com/teemuluotio/status/990532938952527873
 Notes: ''
----
+

@@ -14,4 +14,3 @@ Detection: []
 Resources:
   - https://twitter.com/pabraeken/status/995837734379032576
 Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken
----

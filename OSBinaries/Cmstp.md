@@ -23,4 +23,4 @@ Resources:
     (UAC Bypass)
   - https://github.com/hfiref0x/UACME
 Notes: Thanks to Oddvar Moe - @oddvarmoe, Nick Tyrer - @NickTyrer
----
+

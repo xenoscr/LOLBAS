@@ -17,4 +17,3 @@ Detection: []
 Resources:
   - https://github.com/api0cradle/ShmooCon-2015/blob/master/ShmooCon-2015-Simple-WLEvasion.pdf
 Notes: Thanks to Casey Smith - @subtee
----

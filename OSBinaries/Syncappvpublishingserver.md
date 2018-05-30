@@ -14,4 +14,3 @@ Detection: []
 Resources:
   - https://twitter.com/monoxgas/status/895045566090010624
 Notes: Thanks to Nick Landers - @monoxgas
----

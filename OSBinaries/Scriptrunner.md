@@ -19,4 +19,3 @@ Resources:
   - https://twitter.com/NickTyrer/status/914234924655312896
   - https://github.com/MoooKitty/Code-Execution
 Notes: Thanks to Nick Tyrer - @NickTyrer
----

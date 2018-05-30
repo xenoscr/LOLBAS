@@ -19,4 +19,4 @@ Resources:
   - https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/
   - https://pentestlab.blog/2017/05/11/applocker-bypass-regsvr32/
 Notes: Thanks to Casey Smith - @subtee
----
+

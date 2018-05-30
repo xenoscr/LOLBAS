@@ -15,4 +15,4 @@ Detection: []
 Resources:
   - http://www.hexacorn.com/blog/2018/04/24/extexport-yet-another-lolbin/
 Notes: Thanks to Adam - @hexacorn
----
+

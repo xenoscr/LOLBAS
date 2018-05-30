@@ -21,4 +21,3 @@ Detection: []
 Resources:
   - https://oddvar.moe/2017/08/13/bypassing-device-guard-umci-using-chm-cve-2017-8625/
 Notes: Thanks to Oddvar Moe - @oddvarmoe
----

@@ -24,4 +24,3 @@ Detection: []
 Resources:
   - http://www.hexacorn.com/blog/2017/11/10/reusigned-binaries-living-off-the-signed-land/
 Notes: Thanks to Adam - @hexacorn
----

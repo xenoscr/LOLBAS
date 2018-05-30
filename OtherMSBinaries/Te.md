@@ -13,4 +13,3 @@ Detection: []
 Resources:
   - https://twitter.com/gn3mes1s/status/927680266390384640?lang=bg
 Notes: Thanks to Giuseppe N3mes1s - @gN3mes1s
----
