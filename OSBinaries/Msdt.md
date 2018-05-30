@@ -9,7 +9,7 @@ Commands:
     Description: ''
   - Command: msdt.exe -path C:\WINDOWS\diagnostics\index\PCWDiagnostic.xml -af C:\PCW8E57.xml
       /skip TRUE
-    Description: Executes the Microsoft Diagnostics Tool and executes the malicious .MSI refferenced in the PCW8E57.xml file.
+    Description: Executes the Microsoft Diagnostics Tool and executes the malicious .MSI referenced in the PCW8E57.xml file.
 Full Path:
   - 'C:\Windows\System32\Msdt.exe    '
   - 'C:\Windows\SysWOW64\Msdt.exe    '
