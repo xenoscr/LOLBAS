@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: replace.exe C:\Source\File.cab C:\Destination /A
-    Description: ''
+    Description: Copy the specified file to the destination folder.
   - Command: replace.exe \\webdav.host.com\foo\bar.exe c:\outdir /A
-    Description: ''
+    Description: Copy the specified file to the destination folder.
 Full Path:
   - C:\Windows\System32\replace.exe
   - C:\Windows\SysWOW64\replace.exe

@@ -6,7 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: regasm.exe /U AllTheThingsx64.dll
-    Description: ''
+    Description: Loads the target .DLL file and executes the UnRegisterClass function.
+  - Command: regasm.exe AllTheThingsx64.dll
+    Description: Loads the target .DLL file and executes the RegisterClass function.
 Full Path:
   - C:\Windows\Microsoft.NET\Framework\v2.0.50727\regasm.exe
   - C:\Windows\Microsoft.NET\Framework64\v2.0.50727\regasm.exe

@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: OpenWith.exe /c C:\test.hta
-    Description: ''
+    Description: Opens the target file with the default application.
   - Command: OpenWith.exe /c C:\testing.msi
-    Description: ''
+    Description: Opens the target file with the default application.
 Full Path:
   - c:\windows\system32\Openwith.exe
   - c:\windows\sysWOW64\Openwith.exe

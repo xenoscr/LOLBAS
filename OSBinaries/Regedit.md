@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: regedit /E c:\ads\file.txt:regfile.reg HKEY_CURRENT_USER\MyCustomRegKey
-    Description: ''
+    Description: Export the target Registry key to the specified .REG file.
   - Command: regedit C:\ads\file.txt:regfile.reg"
-    Description: ''
+    Description: Import the target .REG file into the Registry.
 Full Path:
   - C:\Windows\System32\regedit.exe
   - C:\Windows\SysWOW64\regedit.exe

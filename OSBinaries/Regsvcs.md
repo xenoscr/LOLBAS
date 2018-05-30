@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: regsvcs.exe AllTheThingsx64.dll
-    Description: ''
+    Description: Loads the target .DLL file and executes the RegisterClass function.
 Full Path:
   - C:\Windows\Microsoft.NET\Framework\v2.0.50727\regsvcs.exe
   - C:\Windows\Microsoft.NET\Framework64\v2.0.50727\regsvcs.exe

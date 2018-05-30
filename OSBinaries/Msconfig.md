@@ -6,12 +6,14 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: Msconfig.exe -5
-    Description: ''
+    Description: Executes command embeded in crafted c:\windows\system32\mscfgtlc.xml.
 Full Path:
   - c:\windows\system32\msconfig.exe
 Code Sample: []
 Detection: []
 Resources:
   - https://twitter.com/pabraeken/status/991314564896690177
-Notes: Thanks to Pierre-Alexandre Braeken - @pabraeken
+Notes: |
+    Thanks to Pierre-Alexandre Braeken - @pabraeken
+    See the Payloads folder for an example mscfgtlc.xml file.
 ---
