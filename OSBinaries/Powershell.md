@@ -6,7 +6,7 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: powershell -ep bypass - < c:\temp:ttt
-    Description: Execute the encoded powershell command stored in an Alternate Data Stream (ADS).
+    Description: Execute the encoded PowerShell command stored in an Alternate Data Stream (ADS).
 Full Path:
   - C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
   - C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
