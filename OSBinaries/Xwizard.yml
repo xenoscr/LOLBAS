@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: xwizard.exe
-    Description: ''
+    Description: Xwizard.exe will load a .DLL file located in the same directory (DLL Hijack) named xwizards.dll.
   - Command: xwizard RunWizard {00000001-0000-0000-0000-0000FEEDACDC}
-    Description: ''
+    Description: Xwizard.exe running a custom class that has been added to the registry.
 Full Path:
   - c:\windows\system32\xwizard.exe
   - c:\windows\sysWOW32\xwizard.exe

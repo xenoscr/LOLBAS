@@ -6,9 +6,9 @@ Created: '2018-05-25'
 Categories: []
 Commands:
   - Command: Scriptrunner.exe -appvscript calc.exe
-    Description: ''
+    Description: Execute calc.exe.
   - Command: ScriptRunner.exe -appvscript "\\fileserver\calc.cmd"
-    Description: ''
+    Description: Execute the calc.cmd script on the remote share.
 Full Path:
   - c:\windows\system32\scriptrunner.exe
   - c:\windows\sysWOW64\scriptrunner.exe
